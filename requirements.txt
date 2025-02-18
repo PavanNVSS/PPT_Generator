@@ -1,0 +1,16 @@
+Flask
+Flask_Cors
+gpt4all
+huggingface_hub
+langchain
+langchain_community
+nltk
+PyPDF2
+python_pptx
+pywin32
+qdrant_client
+Requests
+sentence_transformers
+streamlit
+tqdm
+transformers
