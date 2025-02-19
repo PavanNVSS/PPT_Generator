@@ -7,7 +7,6 @@ langchain_community
 nltk
 PyPDF2
 python_pptx
-pywin32
 qdrant_client
 Requests
 sentence_transformers
